@@ -1,0 +1,7 @@
+<phpunit bootstrap="vendor/autoload.php">
+  <testsuites>
+    <testsuite name="varunagw_stream-sampler">
+      <directory>plugins/varunagw/stream-sampler/tests</directory>
+    </testsuite>
+  </testsuites>
+</phpunit>
